@@ -16,6 +16,8 @@ I’m Henrique Miyahira, a software engineer based in Brazil.
 <img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" style="padding-right:10px;" />
 
+------
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueMiyahira&show_icons=true&theme=transparent)
 
 <div style="display: inline_block"><br>
