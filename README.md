@@ -26,5 +26,9 @@ I’m Henrique Miyahira, a software engineer based in Brazil.
 
 # Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/henriquemiyahira)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/miyahirahenrique)
+<a href="https://linkedin.com/in/henriquemiyahira">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
+</a>
+<a href="https://instagram.com/miyahirahenrique">
+  <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" />
+</a>
