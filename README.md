@@ -1,4 +1,4 @@
-## Hello there! 
+### Hello there! 
 I’m Henrique Miyahira, a software engineer based in Brazil.
 
 ### 🧰 Languages and Tools
@@ -18,13 +18,13 @@ I’m Henrique Miyahira, a software engineer based in Brazil.
 
 <br />
 
-##
+---
 
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueMiyahira&show_icons=true&theme=transparent)
 
-##
+---
 
 <div>
   <a href="https://www.instagram.com/miyahirahenrique" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
