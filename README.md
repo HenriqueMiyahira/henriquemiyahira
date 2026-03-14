@@ -24,4 +24,3 @@ I’m Henrique Miyahira, a software engineer based in Brazil.
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueMiyahira&show_icons=true&theme=transparent)
-
