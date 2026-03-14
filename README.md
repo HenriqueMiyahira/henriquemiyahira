@@ -24,11 +24,3 @@ I’m Henrique Miyahira, a software engineer based in Brazil.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueMiyahira&show_icons=true&theme=transparent)
 
-# Redes Sociais
-
-<a href="https://linkedin.com/in/henriquemiyahira">
-  <img align="left" src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" style="padding-right:10px; />
-</a>
-<a href="https://instagram.com/miyahirahenrique">
-  <img align="left" src="https://skillicons.dev/icons?i=instagram" width="30" height="30" style="padding-right:10px; />
-</a>
