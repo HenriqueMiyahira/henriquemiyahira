@@ -28,9 +28,8 @@ I’m Henrique Miyahira, a software engineer based in Brazil.
 
 ### Connect with me:
 
-<a href="https://linkedin.com/in/henriquemiyahira">
-  <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="40" height="40" />
-</a>
-<a href="https://instagram.com/miyahirahenrique">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" />
-</a>
+<p align="left">
+  <a href="https://linkedin.com/in/henriquemiyahira">
+    <img src="https://skillicons.dev/icons?i=linkedin,instagram,discord" />
+  </a>
+</p>
