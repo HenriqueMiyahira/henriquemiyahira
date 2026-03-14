@@ -24,11 +24,14 @@ I’m Henrique Miyahira, a software engineer based in Brazil.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueMiyahira&show_icons=true&theme=transparent)
 
+# Redes Sociais
 
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+<a href="https://linkedin.com/in/henriquemiyahira">
+  <img src="https://cdn.simpleicons.org/linkedin/000" width="30" #gh-light-mode-only />
+  <img src="https://cdn.simpleicons.org/linkedin/FFF" width="30" #gh-dark-mode-only />
+</a>
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+<a href="https://instagram.com/miyahirahenrique">
+  <img src="https://cdn.simpleicons.org/instagram/000" width="30" #gh-light-mode-only />
+  <img src="https://cdn.simpleicons.org/instagram/FFF" width="30" #gh-dark-mode-only />
+</a>
