@@ -27,7 +27,7 @@ I’m Henrique Miyahira, a software engineer based in Brazil.
 # Redes Sociais
 
 <a href="https://linkedin.com/in/henriquemiyahira">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" style="padding-right:10px; />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" style="padding-right:40px; />
 </a>
 <a href="https://instagram.com/miyahirahenrique">
   <img src="https://skillicons.dev/icons?i=instagram" width="30" height="30" />
