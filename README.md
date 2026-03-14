@@ -16,14 +16,13 @@ I’m Henrique Miyahira, a software engineer based in Brazil.
 <img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" style="padding-right:10px;" />
 
+<br />
+
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueMiyahira&show_icons=true&theme=transparent)
+<br />
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon.png">
-<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">       
-     </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueMiyahira&show_icons=true&theme=transparent)
 
 ##
 
