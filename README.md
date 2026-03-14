@@ -28,8 +28,9 @@ I’m Henrique Miyahira, a software engineer based in Brazil.
 
 ### Connect with me:
 
-[![website](https://icons8.com/icon/8808/linkedin)](https://linkedin.com/in/henriquemiyahira#gh-light-mode-only)
-[![website](https://icons8.com/icon/8808/linkedin)](https://linkedin.com/in/henriquemiyahira#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](https://icons8.com/icon/RhYNENh5cxlS/instagram)](https://instagram.com/miyahirahenrique#gh-light-mode-only)
-[![website](https://icons8.com/icon/RhYNENh5cxlS/instagram)](https://instagram.com/miyahirahenrique#gh-dark-mode-only)
+<a href="https://linkedin.com/in/henriquemiyahira" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://instagram.com/miyahirahenrique" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
