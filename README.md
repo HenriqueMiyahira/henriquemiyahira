@@ -1,4 +1,4 @@
-### Hello there! 
+## Hello there! 
 I’m Henrique Miyahira, a software engineer based in Brazil.
 
 ### 🧰 Languages and Tools
@@ -26,6 +26,10 @@ I’m Henrique Miyahira, a software engineer based in Brazil.
 
 ---
 
-<div>
-  <a href="https://www.instagram.com/miyahirahenrique" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-miyahira-724b58267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+### Connect with me:
+
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/henriquemiyahira#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/henriquemiyahira#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/miyahirahenrique#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/miyahirahenrique#gh-dark-mode-only)
