@@ -17,6 +17,7 @@ I’m Henrique Miyahira, a software engineer based in Brazil.
 <img align="left" alt="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" style="padding-right:10px;" />
 
 <br />
+<br />
 
 ---
 
